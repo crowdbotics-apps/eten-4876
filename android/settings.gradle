@@ -1,0 +1,3 @@
+rootProject.name = 'eten_4876'
+
+include ':app'
